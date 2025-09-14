@@ -28,6 +28,6 @@ public:
 
 int main()
 {
-	Car obj1("Dodge", 10000, 2025);
+	Car obj1("Dodge", 60000, 2025);
 	obj1.Print();
 }
